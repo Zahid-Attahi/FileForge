@@ -1,0 +1,6 @@
+pillow
+pillow-heif
+python-docx
+fpdf2
+pdf2docx
+docx2pdf
